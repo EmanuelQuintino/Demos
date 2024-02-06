@@ -1,0 +1,5 @@
+=> Vercel <=
+
+{
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+}
